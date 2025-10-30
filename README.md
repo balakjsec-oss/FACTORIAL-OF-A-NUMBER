@@ -1,3 +1,4 @@
+
 # FACTORIAL-OF-A-NUMBER-USING-8051-KEIL
 
 **AIM:**
@@ -62,7 +63,15 @@ THIN:
 
 END
 
-**Output:**  
+**Output:** 
+
+INPUT:
+<img width="979" height="534" alt="Screenshot 2025-10-23 104808" src="https://github.com/user-attachments/assets/48ce93e1-17c9-48f4-bca2-0ee23b8b987e" />
+
+OUTPUT:
+<img width="966" height="532" alt="Screenshot 2025-10-23 104832" src="https://github.com/user-attachments/assets/25c24ba9-f9b2-4744-9d26-f7769b2894b5" />
+
+
 
 <br>
 <br>
@@ -71,6 +80,8 @@ END
 
 
 **Manual Calculations:**  
+<img width="828" height="1256" alt="image" src="https://github.com/user-attachments/assets/b7beabd2-5de3-4b60-a79c-c8b40b4fa11d" />
+
 
 <br>
 <br>
